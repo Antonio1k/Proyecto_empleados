@@ -1,0 +1,10 @@
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\bin\Debug\Proyecto_Empleados.exe.config
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.csprojResolveAssemblyReference.cache
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.Properties.Resources.resources
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.csproj.GenerateResource.Cache
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\bin\Debug\Proyecto_Empleados.exe
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\bin\Debug\Proyecto_Empleados.pdb
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.exe
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.pdb
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.Views.frmCapturarEmpleado.resources
+d:\users\elhawxman\documents\visual studio 2015\Projects\Proyecto_Empleados\Proyecto_Empleados\obj\Debug\Proyecto_Empleados.Views.frmListado.resources
