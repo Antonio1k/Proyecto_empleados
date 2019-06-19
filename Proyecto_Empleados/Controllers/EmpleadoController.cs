@@ -19,8 +19,7 @@ namespace Proyecto_Empleados.Controllers
             viewEmpleados = viewListar;
             viewCapturarEmpleado = viewCapturar;
             viewCapturarEmpleado.FormClosed += new FormClosedEventHandler(CargarEmpleados);
-
-            //viewCapturarEmpleado.btnOk.Click += new EventHandler(GuardarEmpleado);
+            
             viewCapturarEmpleado.Load += new EventHandler(CargarDepartamentos);
         }
 
@@ -62,6 +61,7 @@ namespace Proyecto_Empleados.Controllers
         }
 
         public void CapturarNuevoEmpleado(Object sender, EventArgs e) {
+            
             viewCapturarEmpleado = new frmCapturarEmpleado(this.viewEmpleados);
             viewCapturarEmpleado.Show();            
         }

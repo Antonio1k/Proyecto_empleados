@@ -11,7 +11,6 @@ namespace Proyecto_Empleados.Models.DataAccessObjects
     {
         //Cadena de Conexión para servidor de Microsoft SQL Server
         protected SqlConnection Conexion = new SqlConnection(
-             "Server = DESKTOP-2CKQUMS\\SQLEXPRESS; Database=proyecto_empleados;User Id = ElHawxman;Trusted_Connection=True;");
-             //"workstation id = proyectoEmpleados.mssql.somee.com; packet size = 4096; user id = Antoniov94_SQLLogin_1; pwd=nfbep2yfp1;data source = proyectoEmpleados.mssql.somee.com; persist security info=False;initial catalog = proyectoEmpleados");
+            "workstation id = proyectoEmpleados.mssql.somee.com; packet size = 4096; user id = Antoniov94_SQLLogin_1; pwd=nfbep2yfp1;data source = proyectoEmpleados.mssql.somee.com; persist security info=False;initial catalog = proyectoEmpleados");
     }
 }
